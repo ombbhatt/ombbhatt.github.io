@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I am interested in how language works in brains, minds, and machines."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +46,27 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+
+I am a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova at Georgia Tech, where I am analyzing language models to detect human-like response biases.
+
+I am currently interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
+
+- Do human-like linguistic generalizations emerge in language models? Can we use their internal representations to study how their knowledge is structured compared to humans? Can we train human-like language development into models?
+
+- Encoding models have enabled us to map brain responses to model representations -- how can we use them to better understand the functional alignment between the brain and language models? How can we creatively and accurately predict brain activity to study how different networks engage in different tasks?
+
+- How does the language network interact with other regions in the brain to perform complex reasoning?
+
+I came to Georgia Tech from UIUC, where I graduated from the Computer Science and Philosophy program in 2023. I was first introduced to neuroscience (more accurately, neuroAI) at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). I believe NeuroAI is a natural convergence of my love for philosophy, psychology, and machine learning, and I have these people to thank for that!
+
+I am currently looking for pre-doctoral research assistant/lab technician positions to gain more research experience in preparation to apply to computational neuroscience Ph.D. programs. 
+
+
+News
+======
+- (4/2025) My first paper (authored with Dr. A. Ivanova), *"Estimating and Correcting Yes-No Bias in LMs"*, is accepted to the **CogSci 2025** conference! Read more in the "Publications" section (under construction!).
+
+
+
