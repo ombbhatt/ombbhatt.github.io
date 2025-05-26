@@ -49,7 +49,7 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-I am a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova at Georgia Tech, where I am analyzing language models to detect human-like response biases.
+I will be joining the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UC Irvine starting Summer 2025 as a research technician! I'll be probing language models from both cognitive and AI safety perspectives. 
 
 I am currently interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
 
@@ -59,14 +59,14 @@ I am currently interested in using language models as tools to study human langu
 
 - How does the language network interact with other regions in the brain to perform complex reasoning?
 
-I came to Georgia Tech from UIUC, where I graduated from the Computer Science and Philosophy program in 2023. I was first introduced to neuroscience (more accurately, neuroAI) at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). I believe NeuroAI is a natural convergence of my love for philosophy, psychology, and machine learning, and I have these people to thank for that!
+Until recently, I was a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova at Georgia Tech, where I was analyzing language models to detect human-like response biases. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
 
-I am currently looking for pre-doctoral research assistant/lab technician positions to gain more research experience in preparation to apply to computational neuroscience Ph.D. programs. 
+Prior to my master's at GT, I was an undergraduate at UIUC in the [Computer Science and Philosophy](https://siebelschool.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy) program. 
 
 
 News
 ======
-- (4/2025) My first paper (authored with Dr. A. Ivanova), *"Estimating and Correcting Yes-No Bias in LMs"*, is accepted to the **CogSci 2025** conference! Read more in the "Publications" section (under construction!).
+- (4/2025) My first paper (authored with Dr. A. Ivanova), *"Estimating and Correcting Yes-No Bias in LMs"*, is accepted to the **CogSci 2025** conference! I'll be presenting it there, come and chat!
 
 
 
