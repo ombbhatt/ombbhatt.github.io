@@ -27,10 +27,10 @@ author:
   name             : "Om Bhatt" 
   pronouns         : "he/him"  
   bio              :
-  location         : "Atlanta, GA" 
-  employer         : "Georgia Tech"
+  location         : "Irvine, CA" 
+  employer         : "UC Irvine"
   uri              : # URL
-  email            : "om.bhatt@gatech.edu" 
+  email            : "om.bhatt@uci.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -53,7 +53,7 @@ author:
   blogger         : "https://omventsgraciously.blogspot.com/"  
 
   # Social media
-  bluesky          : "ombhatt" # Replace this with you Bluesky username
+  bluesky          : "ombhatt.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
