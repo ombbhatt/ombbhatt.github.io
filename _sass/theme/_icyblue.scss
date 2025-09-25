@@ -1,0 +1,70 @@
+/* ==========================================================================
+   ICY BLUE THEME
+   ========================================================================== */
+
+/* Icy Blue Theme Colors */
+$primary-blue               : #a8d8ea;  /* Main icy blue */
+$accent-blue               : #79c7e3;   /* Slightly deeper for accents */
+$dark-blue                 : #5a9bb8;   /* For hover states */
+$cool-gray                 : #f8fafc;   /* Very light cool gray backgrounds */
+$medium-gray-blue          : #cbd5e1;   /* For borders */
+$medium-gray               : #64748b;   /* Text secondary */
+$dark-gray                 : #334155;   /* Main text */
+
+/* Color codes used for the site (keep these for notices/alerts) */
+$danger-color               : #ef4444;
+$info-color                 : #3b82f6;
+$notice-color               : #64748b;
+$success-color              : #10b981;
+$warning-color              : #f59e0b;
+
+/* Other basic settings for the template (copy from default) */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Icy Blue theme */
+// :root {
+//     --global-base-color                 : #{$medium-gray};
+//     --global-bg-color                   : #ffffff;
+//     --global-footer-bg-color            : #{$cool-gray};
+//     --global-border-color               : #e2e8f0;
+//     --global-dark-border-color          : #cbd5e1;
+//     --global-code-background-color      : #{$cool-gray};
+//     --global-code-text-color            : #{$medium-gray};
+//     --global-fig-caption-color          : #{$medium-gray};
+//     --global-link-color                 : #{$primary-blue};
+//     --global-link-color-hover           : #{$dark-blue};
+//     --global-link-color-visited         : #{$accent-blue};  
+//     --global-masthead-link-color        : #{$dark-gray};
+//     --global-masthead-link-color-hover  : #{$primary-blue};    
+//     --global-text-color                 : #{$dark-gray};
+//     --global-text-color-light           : #{$medium-gray};
+//     --global-thead-color                : #f1f5f9;
+// }
+
+
+/* Icy Blue theme - BOLD VERSION */
+:root {
+    --global-base-color                 : #64748b;
+    --global-bg-color                   : #f8fafc;  /* Light icy background instead of pure white */
+    --global-footer-bg-color            : #{$medium-gray-blue};
+    --global-border-color               : #a8d8ea;  /* Blue borders instead of gray */
+    --global-dark-border-color          : #79c7e3;
+    --global-code-background-color      : #e0f2fe;  /* Icy code blocks */
+    --global-code-text-color            : #0f172a;
+    --global-fig-caption-color          : #475569;
+    --global-link-color                 : #0ea5e9;  /* Much more vibrant blue links */
+    --global-link-color-hover           : #0284c7;  /* Darker blue hover */
+    --global-link-color-visited         : #06b6d4;  
+    --global-masthead-link-color        : #0f172a;  /* Dark nav links */
+    --global-masthead-link-color-hover  : #0ea5e9;  /* Blue hover in nav */    
+    --global-text-color                 : #0f172a;  /* Darker text for contrast */
+    --global-text-color-light           : #475569;
+    --global-thead-color                : #cce7f0;  /* Blue table headers */
+}
