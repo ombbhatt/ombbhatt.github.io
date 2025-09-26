@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "icyblue"
-title                    : "Om Bhatt"
+title                    : "Om B. Bhatt"
 title_separator          : "-"
-name                     : &name "Om Bhatt"
+name                     : &name "Om B. Bhatt"
 description              : &description "personal description"
 url                      : https://ombbhatt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "ombbhatt/ombbhatt.github.io"
 author:
   # Biographic information
   avatar           : "omprofile.jpg"
-  name             : "Om Bhatt" 
+  name             : "Om B. Bhatt" 
   pronouns         : "he/him"  
   bio              :
   location         : "Irvine, CA" 
