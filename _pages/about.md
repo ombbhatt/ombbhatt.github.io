@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am interested in how language works in brains, minds, and machines."
+title: "Hi! - Om B. Bhatt"
 author_profile: true
 redirect_from: 
   - /about/
