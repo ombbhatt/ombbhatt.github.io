@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! - Om B. Bhatt"
+title: "Om B. Bhatt"
 author_profile: true
 redirect_from: 
   - /about/
@@ -49,19 +49,21 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-I will be joining the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UC Irvine starting Summer 2025 as a research technician! I'll be probing language models from both cognitive and AI safety perspectives. 
+Hello and welcome to my page!👋
 
-I am currently interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
+Since Summer 2025, I have joined the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UC Irvine as a research technician and lab manager. Currently my work is focused on probing language models from both cognitive and AI safety perspectives, specifically on concepts of morality. 
 
-- Do human-like linguistic generalizations emerge in language models? Can we use their internal representations to study how their knowledge is structured compared to humans? Can we train human-like language development into models?
+I am interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
 
-- Encoding models have enabled us to map brain responses to model representations -- how can we use them to better understand the functional alignment between the brain and language models? How can we creatively and accurately predict brain activity to study how different networks engage in different tasks?
+- How do classically cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models? Can we form some robust idea of the human-likeness (or human-unlikeness) of models using the mechanistic interpretability toolkit?
 
-- How does the language network interact with other regions in the brain to perform complex reasoning?
+- Do human-like linguistic generalizations emerge in language models? Do models "learn" language like we do? What linguistic phenomena show disparaties between models and humans, and what does that tell us about the reasoning that is derivable just using language?  
 
-Until recently, I was a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova at Georgia Tech, where I was analyzing language models to detect human-like response biases. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
+- What are the neural correlates of AI models? Encoding models can predict neuronal responses for both vision and language -- can we perform mechanistic interventions on them to identify brain-like architectural components? Can we use the neuronal predictions to infer what the model is computing on a smaller functional scale when given complex tasks, thus reducing its black-box nature?
 
-Prior to my master's at GT, I was an undergraduate at UIUC in the [Computer Science and Philosophy](https://siebelschool.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy) program. 
+Prior to this, I was a master's student at Georgia Tech CS and a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova. My project there was about analyzing language models to detect human-like response biases. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
+
+I completed my undergraduate education at UIUC in the [Computer Science and Philosophy](https://siebelschool.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy) program, where I took special interest in symbolic logic and ethics. 
 
 
 News
