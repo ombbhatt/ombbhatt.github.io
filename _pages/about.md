@@ -57,7 +57,7 @@ I am interested in using language models as tools to study human language proces
 
 - How do cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models? How can we show formal evidence of similarities/divergences between models and cognitive processing using the mechanistic interpretability toolkit? 
 
-- Do human-like linguistic generalizations emerge in language models? Do models "learn" language like we do? What linguistic phenomena show disparaties between models and humans, and what does that tell us about the reasoning that is derivable using only language?  
+- Do human-like linguistic generalizations emerge in language models? Do models "learn" language like we do? What linguistic phenomena show disparities between models and humans, and what does that tell us about the reasoning that is derivable using only language?  
 
 - What are the neural correlates of AI models? Encoding models can predict neuronal responses for both vision and language -- can we perform mechanistic interventions on them to identify brain-like architectural components? Can we find neural circuits or do lesion-like experiments with models?
 
