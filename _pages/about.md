@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Om B. Bhatt"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
