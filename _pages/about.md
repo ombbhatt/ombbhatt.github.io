@@ -55,11 +55,11 @@ Since Summer 2025, I have joined the [Relational Cognition Lab](https://www.relc
 
 I am interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
 
-- How do classically cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models? Can we form some robust idea of the human-likeness (or human-unlikeness) of models using the mechanistic interpretability toolkit?
+- How do cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models? How can we show formal evidence of similarities/divergences between model and cogntive processing using mechanistic interpretability techniques? 
 
 - Do human-like linguistic generalizations emerge in language models? Do models "learn" language like we do? What linguistic phenomena show disparaties between models and humans, and what does that tell us about the reasoning that is derivable just using language?  
 
-- What are the neural correlates of AI models? Encoding models can predict neuronal responses for both vision and language -- can we perform mechanistic interventions on them to identify brain-like architectural components? Can we use the neuronal predictions to infer what the model is computing on a smaller functional scale when given complex tasks, thus reducing its black-box nature?
+- What are the neural correlates of AI models? Encoding models can predict neuronal responses for both vision and language -- can we perform mechanistic interventions on them to identify brain-like architectural components? Can we find neural circuits or do lesion-like experiments with models?
 
 Prior to this, I was a master's student at Georgia Tech CS and a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova. My project there was about analyzing language models to detect human-like response biases. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
 
