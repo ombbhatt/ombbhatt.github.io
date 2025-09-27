@@ -116,6 +116,8 @@
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}"> 
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ page.author.avatar | prepend: "/images/" | prepend: base_path }}">
 {% if page.date %}
   <meta property="og:type" content="article">
 {% endif %}
