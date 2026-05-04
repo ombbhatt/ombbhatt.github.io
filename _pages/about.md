@@ -68,5 +68,5 @@ I completed my undergraduate education at UIUC in the CS + Philosophy program, w
 
 News
 ======
-- **(4/2026)** My second paper *""RBCorr: Response Bias Correction in Language Models*, authored with Dr. A. Ivanova, is accepted to the **ACL 2026 [GEM Workshop](https://gem-workshop.com/)**! We developed our previous work into a more adaptable and robust method with much more comprehensive testing, metrics, and comparisons, and I'm excited to get to share it!
+- **(4/2026)** My second paper *"RBCorr: Response Bias Correction in Language Models"*, authored with Dr. A. Ivanova, is accepted to the **ACL 2026 [GEM Workshop](https://gem-workshop.com/)**! We developed our previous work into a more adaptable and robust method with much more comprehensive testing, metrics, and comparisons, and I'm excited to get to share it!
 - **(4/2025)** My first paper (authored with Dr. A. Ivanova), *"Estimating and Correcting Yes-No Bias in LMs"*, is accepted to the **[CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/)** conference! I'll be presenting it there, come and chat!
