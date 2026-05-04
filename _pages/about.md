@@ -51,7 +51,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 Hello and welcome to my page! 👋
 
-I am a research technician and lab manager at the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UC Irvine CogSci. Currently my research is focused on probing language models from both cognitive and AI safety perspectives, specifically on concepts of morality. 
+I am a research technician and lab manager at the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UC Irvine. Currently my research is focused on probing language models from both cognitive and AI safety perspectives, specifically on concepts of morality. 
 
 I am interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
 
