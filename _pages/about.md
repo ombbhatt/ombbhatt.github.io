@@ -61,7 +61,7 @@ I am interested in using language models as tools to study human language proces
 
 - What are the neural correlates of AI models? Can we identify brain-like architectural components or neural circuits in models, or do lesion-like experiments with them?
 
-Prior to this, I was a master's student at Georgia Tech CS and a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova. My project there was about analyzing language models to detect human-like response biases. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
+Prior to this, I was a master's student at Georgia Tech CS and a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
 
 I completed my undergraduate education at UIUC in the CS + Philosophy program, where I took special interest in symbolic logic and ethics. 
 
