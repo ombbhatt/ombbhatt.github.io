@@ -49,27 +49,24 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-Hello and welcome to my page!👋
+Hello and welcome to my page! 👋
 
-Since Summer 2025, I have joined the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UCI as a research technician and lab manager. Currently my work is focused on probing language models from both cognitive and AI safety perspectives, specifically on concepts of morality. 
+I am a research technician and lab manager at the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UC Irvine CogSci. Currently my research is focused on probing language models from both cognitive and AI safety perspectives, specifically on concepts of morality. 
 
 I am interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
 
-- How do cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models? How can we show formal evidence of similarities/divergences between models and cognitive processing using the mechanistic interpretability toolkit? 
+- How do cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models? How can we show formal evidence of similarities/divergences between models and cognitive processing using the mechanistic interpretability toolkit?
 
-- Do human-like linguistic generalizations emerge in language models? Do models "learn" language like we do? What linguistic phenomena show disparities between models and humans, and what does that tell us about the reasoning that is derivable using only language?  
+- How do models behave as people? How do they react under tension? Are they competent social reasoners, and how do we actually evaluate that? 
 
-- What are the neural correlates of AI models? Encoding models can predict neuronal responses for both vision and language -- can we perform mechanistic interventions on them to identify brain-like architectural components? Can we find neural circuits or do lesion-like experiments with models?
+- What are the neural correlates of AI models? Can we identify brain-like architectural components or neural circuits in models, or do lesion-like experiments with them?
 
 Prior to this, I was a master's student at Georgia Tech CS and a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova. My project there was about analyzing language models to detect human-like response biases. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
 
-I completed my undergraduate education at UIUC in the [Computer Science and Philosophy](https://siebelschool.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy) program, where I took special interest in symbolic logic and ethics. 
+I completed my undergraduate education at UIUC in the CS + Philosophy program, where I took special interest in symbolic logic and ethics. 
 
 
 News
 ======
-- (4/2025) My first paper (authored with Dr. A. Ivanova), *"Estimating and Correcting Yes-No Bias in LMs"*, is accepted to the **CogSci 2025** conference! I'll be presenting it there, come and chat!
-
-
-
-
+- **(4/2026)** My second paper *""RBCorr: Response Bias Correction in Language Models*, authored with Dr. A. Ivanova, is accepted to the **ACL 2026 [GEM Workshop](https://gem-workshop.com/)**! We developed our previous work into a more adaptable and robust method with much more comprehensive testing, metrics, and comparisons, and I'm excited to get to share it!
+- **(4/2025)** My first paper (authored with Dr. A. Ivanova), *"Estimating and Correcting Yes-No Bias in LMs"*, is accepted to the **[CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/)** conference! I'll be presenting it there, come and chat!
