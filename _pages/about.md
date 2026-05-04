@@ -55,7 +55,7 @@ I am a research technician and lab manager at the [Relational Cognition Lab](htt
 
 I am interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
 
-- How do cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models? How can we show formal evidence of similarities/divergences between models and cognitive processing using the mechanistic interpretability toolkit?
+- How do cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models?
 
 - How do models behave as people? How do they react under tension? Are they competent social reasoners, and how do we actually evaluate that? 
 
