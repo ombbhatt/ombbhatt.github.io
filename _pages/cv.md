@@ -9,7 +9,7 @@ redirect_from:
 
 <script>
   window.onload = function() {
-    window.location.href = "{{ base_path }}/files/bhatt_cv_oct2025.pdf";
+    window.location.href = "{{ base_path }}/files/bhatt_cv_apr2026.pdf";
   }
 </script>
 
