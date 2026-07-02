@@ -8,7 +8,7 @@ excerpt: 'When presented with a yes-no question, humans tend to say "yes" regard
 date: 2025-04-04
 venue: 'CogSci'
 posterurl: /files/COGSCI_poster_ob_ai_final.pdf
-paperurl: 'http://ombbhatt.github.io/files/estimatingand_0203.pdf'
+paperurl: /files/estimatingand_0203.pdf
 # paperurl: 'https://escholarship.org/uc/item/2c04k26b'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Bhatt, O., & Ivanova, A. (2025). Estimating and Correcting Yes-No Bias in Language Models. Proceedings of the Annual Meeting of the Cognitive Science Society, 47. Retrieved from https://escholarship.org/uc/item/2c04k26b'
