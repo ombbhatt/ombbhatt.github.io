@@ -53,13 +53,15 @@ Hello and welcome to my page! 👋
 
 I am a research technician and lab manager at the [Relational Cognition Lab](https://www.relcoglab.org/) led by Dr. Anna Leshinskaya at UC Irvine. Currently my research is focused on probing language models from both cognitive and AI safety perspectives, specifically on concepts of morality. 
 
-I am interested in using language models as tools to study human language processing and cognition in general. More specifically, I am interested in questions like:
+I am interested in understanding the internal reasoning processes of language models using theories from cognitive science, behaviorally studying models in complex social simulations, and the relationships between models and brains. More specifically, I am interested in questions like:
 
-- How do cognitive science understandings of concepts (representational forms, relations, compositionality, etc.) inform our understanding of the same in AI models?
+- Can we find evidence that language models have the mechanistic capability to combine concepts (compositionality), organize them in a concept space (representational geometry), and programmatically follow rules inferred from them (emergent symbolic structure)? Can we bake these cognitive constructs into models by way of novel training methods or architectural augmentation? [Lake & Baroni 2023](https://www.nature.com/articles/s41586-023-06668-3) [Gurnee & Tegmark 2024](https://arxiv.org/abs/2310.02207?) [Feng & Steinhardt 2024](https://arxiv.org/abs/2310.17191)
 
-- How do models behave as people? How do they react under tension? Are they competent social reasoners, and how do we actually evaluate that? 
+- If language models are put into simulated societies and subjected to economic, social, or ethical pressures, do they navigate the tradeoffs in human-like ways? Can our insights from these value-laden simulations help us catch realistic safety risks before deployment? [Park et al. 2023](https://arxiv.org/abs/2304.03442) [Piatti et al. 2024](https://arxiv.org/abs/2404.16698)
 
-- What are the neural correlates of AI models? Can we identify brain-like architectural components or neural circuits in models, or do lesion-like experiments with them?
+- Can encoding models help us build towards a map of functional organization for a language model, analogous to what we currently have for the brain? If we lesion model components based on the mapping between activations and brain regions, do we see the same kind of breakdown patterns as brain lesion studies? [Schrimpf et al. 2021](https://www.pnas.org/doi/10.1073/pnas.2105646118) [Wang et al. 2026](https://arxiv.org/abs/2601.19723)
+
+_\*These questions are broad on purpose — I find all of these areas genuinely exciting and hope to specialize my future work on any one of these threads!*_
 
 Prior to this, I was a master's student at Georgia Tech CS and a member of [Language, Intelligence, and Thought (LIT) Lab](https://www.language-intelligence-thought.net/) led by Dr. Anya Ivanova. I was first introduced to neuroAI at Georgia Tech, specifically by a few amazing Psych faculty (Dr. S. Varma, Dr. R. Murty and, of course, Dr. A. Ivanova). 
 
